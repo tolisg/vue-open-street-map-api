@@ -1,4 +1,4 @@
-# map
+# vue-open-street-map-api
 
 ## Project setup
 ```
