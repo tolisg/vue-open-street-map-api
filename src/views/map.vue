@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid">
     <div class="loader" v-if="loading">
-      <img src="https://icon-library.net/images/spinner-icon-gif/spinner-icon-gif-10.jpg" />
+      <img src="spinner-icon-gif-10.jpg" />
     </div>
     <div class="row" v-show="!loading">
       <div class="col-sm-12">
@@ -17,7 +17,7 @@
             <input
               class="form-control"
               type="text"
-              v-model="address"
+              v-model="address_input"
               @keyup="get_addresses_debounced"
             />
           </div>
@@ -50,7 +50,7 @@ export default {
     return {
       map: null,
       tileLayer: null,
-      address: null,
+      address_input: null,
       slc_address: {
         LAT: 37.9908997,
         LON: 23.70332
@@ -89,7 +89,9 @@ export default {
       let response = [];
       try {
         // Comment this line and uncomment the next one to make local api calls
-        response = await axios.get`https://nominatim.openstreetmap.org/search?q=${this.address}&format=json&addressdetails=1`;
+        response = await axios.get(
+          `https://nominatim.openstreetmap.org/search?q=${this.address_input}&format=json&addressdetails=1`
+        );
         // response = await axios.get("./index.json");
       } catch (error) {
         console.error(error);
