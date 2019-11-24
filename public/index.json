@@ -1,0 +1,293 @@
+[
+    {
+      "place_id": 159427282,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 370742982,
+      "boundingbox": [
+        "35.3363088",
+        "35.3385009",
+        "25.1083243",
+        "25.1089693"
+      ],
+      "lat": "35.337118",
+      "lon": "25.1086124",
+      "display_name": "Αρκαδίας, Καμίνια, Heraklion, Heraklion Municipality, Heraklion Regional Unit, Region of Crete, Crete, 71304, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "neighbourhood": "Καμίνια",
+        "city": "Heraklion",
+        "county": "Heraklion Municipality",
+        "state_district": "Region of Crete",
+        "state": "Crete",
+        "postcode": "71304",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 113570798,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 164940640,
+      "boundingbox": [
+        "38.0268731",
+        "38.0269969",
+        "23.7186904",
+        "23.7194571"
+      ],
+      "lat": "38.0269212",
+      "lon": "23.7191592",
+      "display_name": "Αρκαδιας, Τσούμπα, Agii Anargyri, Municipal Unit of Agioi Anargyroi, Municipality of Agioi Anargyroi-Kamatero, Regional Unit of West Athens, Region of Attica, Attica, 13561, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδιας",
+        "neighbourhood": "Τσούμπα",
+        "suburb": "Agii Anargyri",
+        "city": "Municipal Unit of Agioi Anargyroi",
+        "county": "Municipality of Agioi Anargyroi-Kamatero",
+        "state_district": "Region of Attica",
+        "state": "Attica",
+        "postcode": "13561",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 178340678,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 476583410,
+      "boundingbox": [
+        "38.0822332",
+        "38.0837189",
+        "23.9597832",
+        "23.9603754"
+      ],
+      "lat": "38.0835365",
+      "lon": "23.9603754",
+      "display_name": "Αρκαδίας, Αγία Μαρίνα, Nea Makri, Municipality of Marathonas, Regional Unit of East Attica, Region of Attica, Attica, 19005, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "suburb": "Αγία Μαρίνα",
+        "town": "Nea Makri",
+        "county": "Municipality of Marathonas",
+        "state_district": "Region of Attica",
+        "state": "Attica",
+        "postcode": "19005",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 119904075,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 188808298,
+      "boundingbox": [
+        "37.8404608",
+        "37.8415507",
+        "24.0444427",
+        "24.0456676"
+      ],
+      "lat": "37.8410538",
+      "lon": "24.0449602",
+      "display_name": "Αρκαδίας, Kaki Thalassa, Municipality of Lavreotiki, Regional Unit of East Attica, Region of Attica, Attica, 19001, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "village": "Kaki Thalassa",
+        "county": "Municipality of Lavreotiki",
+        "state_district": "Region of Attica",
+        "state": "Attica",
+        "postcode": "19001",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 137415847,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 259643156,
+      "boundingbox": [
+        "40.6877094",
+        "40.6880408",
+        "22.9350291",
+        "22.9351311"
+      ],
+      "lat": "40.6877094",
+      "lon": "22.9351311",
+      "display_name": "Αρκαδίας, Efxeinoúpoli, Efkarpia, Municipal unit of Efkarpia, Δήμος Παύλου Μελά, Thessaloniki Regional Unit, Central Macedonia Region, Macedonia - Thrace, 56429, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "neighbourhood": "Efxeinoúpoli",
+        "suburb": "Efkarpia",
+        "city": "Municipal unit of Efkarpia",
+        "county": "Δήμος Παύλου Μελά",
+        "state_district": "Central Macedonia Region",
+        "state": "Macedonia - Thrace",
+        "postcode": "56429",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 102831687,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 119746753,
+      "boundingbox": [
+        "37.9997788",
+        "38.0014062",
+        "23.9935223",
+        "23.9945829"
+      ],
+      "lat": "38.0005967",
+      "lon": "23.9940631",
+      "display_name": "Αρκαδίας, Rafina Camp, Rafina, Municipality of Rafina - Pikermi, Regional Unit of East Attica, Region of Attica, Attica, 19009, Greece",
+      "class": "highway",
+      "type": "track",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "suburb": "Rafina Camp",
+        "town": "Rafina",
+        "county": "Municipality of Rafina - Pikermi",
+        "state_district": "Region of Attica",
+        "state": "Attica",
+        "postcode": "19009",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 160018253,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 377454436,
+      "boundingbox": [
+        "37.5125938",
+        "37.5132273",
+        "22.3665432",
+        "22.3669959"
+      ],
+      "lat": "37.5129423",
+      "lon": "22.3667966",
+      "display_name": "Αρκαδίας, Τρίπολη,Αρκαδίας, κ. Τριπόλεως, Tripoli, Δήμος Τρίπολης, Arcadia Regional Unit, Peloponnese Region, Peloponnese, West Greece and Ionian Sea, 22100, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "residential": "Τρίπολη,Αρκαδίας",
+        "suburb": "κ. Τριπόλεως",
+        "city": "Tripoli",
+        "county": "Δήμος Τρίπολης",
+        "state_district": "Peloponnese Region",
+        "state": "Peloponnese, West Greece and Ionian Sea",
+        "postcode": "22100",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 83829835,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 31623535,
+      "boundingbox": [
+        "37.9519048",
+        "37.9530637",
+        "23.7356057",
+        "23.7358339"
+      ],
+      "lat": "37.952578",
+      "lon": "23.7357096",
+      "display_name": "Αρκαδίας, Δάφνη, Municipal Unit of Dafni, Municipality of Dafni - Ymittos, Regional Unit of Central Athens, Region of Attica, Attica, 17235, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "suburb": "Δάφνη",
+        "city": "Municipal Unit of Dafni",
+        "county": "Municipality of Dafni - Ymittos",
+        "state_district": "Region of Attica",
+        "state": "Attica",
+        "postcode": "17235",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 159151361,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 369836679,
+      "boundingbox": [
+        "38.0801328",
+        "38.0804174",
+        "23.7238296",
+        "23.7241264"
+      ],
+      "lat": "38.0803088",
+      "lon": "23.7239428",
+      "display_name": "Αρκαδίας, Acharnes, Municipality of Acharnes, Regional Unit of East Attica, Region of Attica, Attica, 13675, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "suburb": "Acharnes",
+        "county": "Municipality of Acharnes",
+        "state_district": "Region of Attica",
+        "state": "Attica",
+        "postcode": "13675",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    },
+    {
+      "place_id": 146495538,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 308645698,
+      "boundingbox": [
+        "38.0087509",
+        "38.0091112",
+        "23.8596913",
+        "23.8604473"
+      ],
+      "lat": "38.00893695",
+      "lon": "23.8600712012119",
+      "display_name": "Αρκαδίας, Γαργηττός, Gerakas, Municipality of Pallini, Regional Unit of East Attica, Region of Attica, Attica, 15344, Greece",
+      "class": "highway",
+      "type": "residential",
+      "importance": 0.1,
+      "address": {
+        "road": "Αρκαδίας",
+        "neighbourhood": "Γαργηττός",
+        "suburb": "Gerakas",
+        "county": "Municipality of Pallini",
+        "state_district": "Region of Attica",
+        "state": "Attica",
+        "postcode": "15344",
+        "country": "Greece",
+        "country_code": "gr"
+      }
+    }
+  ]
